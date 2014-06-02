@@ -159,16 +159,6 @@ App.Product.FIXTURES = [
     reviews: [],
     image: 'images/products/tinder.png',
     crafter: 201
-  },
-  {
-    id: 6,
-    title: 'Birch Bark Shaving',
-    price: 999,
-    description: 'Fresh and easily combustable',
-    isOnSale: true,
-    reviews: [],
-    image: 'images/products/birch.png',
-    crafter: 201
   }
 ];
 
